@@ -1,0 +1,16 @@
+# Ignore macOS system files and config files
+.DS_Store
+pyvenv.cfg
+
+# Ignore binary files or compiled source code
+bin/
+
+# Ignore libraries or other resources, depending on your project's structure
+lib/
+share/
+output_img/
+test/
+
+# Ignore Jupyter config file
+etc/
+
